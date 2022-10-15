@@ -1,0 +1,39 @@
+  -What is Application Software?
+
+Application software is a computer program that performs a specific function, be it educational, personal, or business. It is also known as an end-user program or a productivity program. Each application is designed to assist users with a particular task that may be related to creativity, productivity, or communication. Application software programs are specific in their functionality and perform the job they are designed to do. The primary goal of every application software is to simplify an operation and help users get their tasks done effortlessly.
+
+Today, we have a plethora of high-end application software at our disposal that defines how we live our lives and accommodate our ever-evolving requirements. Widely used application software includes office productivity suites, data management software, media players, and security programs. The common apps we see on our smartphones are also examples.
+
+
+---Examples of Application Software-
+
+
+Be it completing your tasks, jotting down notes, completing your online research, setting the alarm, keeping an account log, or even playing games; there are explicit application software programs that can help you out. Application software programs are designed to perform specific tasks, simplify workflows, and improve team communication. The most common examples of applications used by millions daily are listed below.
+
+
+-A suite of Microsoft products such as MS Office, PowerPoint, MS Word, Excel, and Outlook.
+-Internet browsers like Google Chrome, Safari, Firefox, etc.
+-Graphics and design software such as Adobe Photoshop, CorelDraw, and AutoCAD.
+-Real-time online communication tools like Skype, Hangouts, Google Meet, Zoom, and Whatsapp.
+-Multimedia and music streaming software such as MX Player, VLC Media Player, Spotify, Pandora, etc.
+-Project management software like Asana, Zoho, Slack, Forecast, etc.
+
+
+
+---Functions of Application Software-
+
+
+Application software programs are designed to execute a large variety of functions. The functions can vary depending on the users’ requirements. Irrespective of the industry or business domain, application software can be built to serve a specified purpose.
+
+-- Here are a couple of examples:-
+
+-Data analysis and information management
+-Document manager
+-Emails, text messaging, audio and video conferencing
+-Graphics, animations, and video development
+-Accounting, payroll, and finance management
+-Project management
+-Resource (ERP and CRM system) and HR management
+-Software for healthcare management
+-Business project management
+-LMS and eLearning software.
